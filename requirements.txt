@@ -1,9 +1,7 @@
 streamlit
-dlib
 opencv-python
 numpy
 pandas
 qrcode
 pillow
 pytesseract
-
