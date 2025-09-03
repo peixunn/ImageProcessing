@@ -1,4 +1,5 @@
 cmake
+build-essential
 libboost-all-dev
 libgl1
 libglib2.0-0
