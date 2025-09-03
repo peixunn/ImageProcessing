@@ -1,8 +1,8 @@
 streamlit
-dlib
-opencv-python-headless
+opencv-python
 numpy
 pandas
 qrcode
 pillow
 pytesseract
+cv2
