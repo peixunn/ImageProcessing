@@ -1,0 +1,9 @@
+streamlit
+qrcode
+pillow
+opencv-python
+numpy
+pandas
+face_recognition
+pytesseract
+pyttsx3
