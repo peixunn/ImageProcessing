@@ -1,5 +1,4 @@
 streamlit
-face_recognition
 dlib
 opencv-python
 numpy
@@ -7,4 +6,4 @@ pandas
 qrcode
 pillow
 pytesseract
-pyttsx3
+
